@@ -371,7 +371,7 @@ const renderTopLanguages = (topLangs, options = {}) => {
       }
     }
     .lang-name {
-      font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
+      font: 400 11px 'SF Pro','Helvetica',Arial,sans-serif;
       fill: ${colors.textColor};
     }
     .stagger {

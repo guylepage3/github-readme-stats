@@ -18,8 +18,8 @@ const renderError = (message, secondaryMessage = "") => {
   return `
     <svg width="${ERROR_CARD_LENGTH}" height="120" viewBox="0 0 ${ERROR_CARD_LENGTH} 120" fill="none" xmlns="http://www.w3.org/2000/svg">
     <style>
-    .text { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2F80ED }
-    .small { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #252525 }
+    .text { font: 600 16px 'SF Pro','Helvetica',Arial,sans-serif; fill: #2F80ED }
+    .small { font: 600 12px 'SF Pro','Helvetica',Arial,sans-serif; fill: #252525 }
     .gray { fill: #858585 }
     </style>
     <rect x="0.5" y="0.5" width="${

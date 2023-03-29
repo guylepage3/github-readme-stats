@@ -339,7 +339,7 @@ const renderWakatimeCard = (stats = {}, options = { hide: [] }) => {
         width: 100%;
       }
     }
-    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${textColor} }
+    .lang-name { font: 400 11px 'SF Pro','Helvetica',Arial,sans-serif; fill: ${textColor} }
     #rect-mask rect{
       animation: slideInAnimation 1s ease-in-out forwards;
     }
