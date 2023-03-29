@@ -28,7 +28,7 @@ exports[`Test Render Wakatime Card should render correctly with compact layout 1
           
     
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #434d58;
+      font: 500 14px 'SF Pro','Helvetica',Arial,sans-serif; fill: #434d58;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -39,7 +39,7 @@ exports[`Test Render Wakatime Card should render correctly with compact layout 1
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58;
+      font: 800 24px 'SF Pro','Helvetica',Arial,sans-serif; fill: #434d58;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     
@@ -208,7 +208,7 @@ exports[`Test Render Wakatime Card should render correctly with compact layout w
           
     
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #434d58;
+      font: 500 14px 'SF Pro','Helvetica',Arial,sans-serif; fill: #434d58;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -219,7 +219,7 @@ exports[`Test Render Wakatime Card should render correctly with compact layout w
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58;
+      font: 800 24px 'SF Pro','Helvetica',Arial,sans-serif; fill: #434d58;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     
