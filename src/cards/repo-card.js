@@ -172,10 +172,10 @@ const renderRepoCard = (repo, options = {}) => {
   card.setHideBorder(hide_border);
   card.setHideTitle(false);
   card.setCSS(`
-    .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${colors.textColor} }
-    .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${colors.textColor} }
+    .description { font: 400 13px 'SF Pro','Helvetica',Arial,sans-serif; fill: ${colors.textColor} }
+    .gray { font: 400 12px 'SF Pro','Helvetica',Arial,sans-serif; fill: ${colors.textColor} }
     .icon { fill: ${colors.iconColor} }
-    .badge { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; }
+    .badge { font: 600 11px 'SF Pro','Helvetica',Arial,sans-serif; }
     .badge rect { opacity: 0.2 }
   `);
 

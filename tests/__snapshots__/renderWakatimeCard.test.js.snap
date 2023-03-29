@@ -17,7 +17,7 @@ exports[`Test Render Wakatime Card should render correctly with compact layout 1
         <desc id="descId"></desc>
         <style>
           .header {
-            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            font: 600 18px 'SF Pro','Helvetica',Arial,sans-serif;
             fill: #2f80ed;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
@@ -85,7 +85,7 @@ exports[`Test Render Wakatime Card should render correctly with compact layout 1
         width: 100%;
       }
     }
-    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
+    .lang-name { font: 400 11px 'SF Pro','Helvetica',Arial,sans-serif; fill: #434d58 }
     #rect-mask rect{
       animation: slideInAnimation 1s ease-in-out forwards;
     }
@@ -197,7 +197,7 @@ exports[`Test Render Wakatime Card should render correctly with compact layout w
         <desc id="descId"></desc>
         <style>
           .header {
-            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            font: 600 18px 'SF Pro','Helvetica',Arial,sans-serif;
             fill: #2f80ed;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
@@ -265,7 +265,7 @@ exports[`Test Render Wakatime Card should render correctly with compact layout w
         width: 100%;
       }
     }
-    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
+    .lang-name { font: 400 11px 'SF Pro','Helvetica',Arial,sans-serif; fill: #434d58 }
     #rect-mask rect{
       animation: slideInAnimation 1s ease-in-out forwards;
     }
