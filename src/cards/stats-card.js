@@ -15,7 +15,7 @@ import { statCardLocales } from "../translations.js";
 const CARD_MIN_WIDTH = 287;
 const CARD_DEFAULT_WIDTH = 287;
 const RANK_CARD_MIN_WIDTH = 420;
-const RANK_CARD_DEFAULT_WIDTH = 500;
+const RANK_CARD_DEFAULT_WIDTH = 450;
 
 /**
  * Create a stats card text item.
