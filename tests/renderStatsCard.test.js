@@ -78,7 +78,7 @@ describe("Test renderStatsCard", () => {
 
   it("should render with custom width set", () => {
     document.body.innerHTML = renderStatsCard(stats);
-    expect(document.querySelector("svg")).toHaveAttribute("width", "450");
+    expect(document.querySelector("svg")).toHaveAttribute("width", "600");
 
     document.body.innerHTML = renderStatsCard(stats, { card_width: 500 });
     expect(document.querySelector("svg")).toHaveAttribute("width", "500");
